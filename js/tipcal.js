@@ -27,6 +27,12 @@
 
       document.getElementById("Each").style.display = "inline-block";// for total
     }
+     var person1 = Math.round ( person );
+    if(person != person1)
+    {
+      alert("Please Enter the Validate Value(s)");
+      return;
+    }
         // calculate tip
 
     var totaltip = bill * ( tip / 100 ) / person; // to calculate tip per person
