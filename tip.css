@@ -1,0 +1,71 @@
+
+#fill{
+	width: 40%;
+	height: 100%;
+	float: left; 
+	border-right: 0.3px solid rgb(202, 188, 188);
+}
+#form{
+	margin-left: 9px;
+	height: 100%;
+}
+#calculate{
+	width: 59%;
+	height: 300px;
+	float: right;
+	
+}
+
+#Tip{
+	height: 22px;
+	text-align: center; 
+	font-size: 18px;
+	width: 91%;
+}
+
+#person{
+	height: 22px ;
+	text-align: center; 
+	font-size: 18px;
+	width: 91%;
+}
+
+#container{
+	width: 40%;
+	height: 310px;
+	border-radius: 5px;
+	border: 0.7px solid rgb(202, 192, 192);
+}
+
+#tip{
+  color: black;
+  float: right;
+  margin: 10px;
+  display: inline-block;
+}
+#t_tip{
+  color: black;
+  float: right;
+  margin: 10px;
+  display: inline-block;
+}
+
+h3{
+	color: grey;
+}
+
+#CALCULATE{
+  
+  font-size : 18px;
+  text-align: center;
+  width: 100%;
+  
+}
+#bill{
+	height: 22px;
+	text-align: center;
+	font-size: 18px; 
+	text-rendering: auto;
+	width: 91%;
+
+}
